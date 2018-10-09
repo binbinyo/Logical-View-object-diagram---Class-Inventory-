@@ -1,0 +1,1 @@
+# Logical-View-object-diagram---Class-Inventory-
